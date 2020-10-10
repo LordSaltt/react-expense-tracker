@@ -1,0 +1,10 @@
+{
+    "eslint.options": {
+        "env":{
+            "es6":true
+        },
+        "parserOptions": {
+            "ecmaVersion": 8 // or 7,8,9
+        }
+    }
+}
